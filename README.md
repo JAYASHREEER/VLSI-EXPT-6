@@ -5,9 +5,9 @@
 ## APPARATUS REQUIRED: CADENCE VIRTUOSO
 ## PROCEDURE :
 Procedure for Commands to get into Cadence
-1.	Right Click and open the terminal window
-2.	Type the following commands as follows and press enter.
-3.i) tcsh
+1.Right Click and open the terminal window
+2.Type the following commands as follows and press enter.
+3.i)tcsh
 ii) source /home/install/cshrc
 iii) virtuoso
 ## PROCEDURE FOR SCHEMATIIC SIMULATION USING CADENCE :
